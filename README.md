@@ -1,4 +1,4 @@
-# RyTm
+# RzYm
 ## _Yet Another Discord Bot_
 
 A multi-function Discord bot created with Discord.js V14. Single guild bot. Features include unique phrase response ("dialects"), text and slash commands, an economy/inventory system, reaction roles, music features, and more.
